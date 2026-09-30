@@ -1,3 +1,5 @@
+> **Moved.** This starter now lives in [devops-starters/data/rabbitmq-retry-dlq](https://github.com/DanilaZanin/devops-starters/tree/main/data/rabbitmq-retry-dlq), with pinned versions, a self-contained Makefile and a test that reproduces the trap it avoids. This repository is archived.
+
 # rabbitmq-task-queue
 
 A small task queue on top of RabbitMQ: publish a task, a worker consumes it,
